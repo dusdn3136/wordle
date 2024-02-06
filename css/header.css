@@ -1,0 +1,41 @@
+.info_bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid rgb(238, 239, 241);
+}
+
+.info_bar_menu {
+  width: 30px;
+  height: 30px;
+}
+
+.info_bar_title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 210px;
+}
+
+.info_bar_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info_bar_icons {
+  width: 30px;
+  height: e0px;
+  margin-right: 5px;
+}
+
+.info_bar_R_btn {
+  padding: 3px 20px 3px 20px;
+  margin-left: 5px;
+  border: 1px solid black;
+  border-radius: 15px;
+  font-size: 10px;
+  font-weight: bold;
+}
